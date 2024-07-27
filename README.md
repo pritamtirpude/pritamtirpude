@@ -12,7 +12,14 @@ A dedicated and passionate Frontend Developer with a strong foundation in comput
 - **Continuous Learning:** I am always eager to learn new technologies and improve my skills to stay current in the ever-evolving field of frontend development.
 
 ### Technical Skills: 🛠️
-- **Languages:** JavaScript, HTML, CSS
+- **Languages:** JavaScript, HTML, CSS, TypeScript
 - **Frameworks/Libraries:** ReactJS, Next.js
 - **Tools:** Git, Webpack, Babel, npm
 - **Other:** Responsive Design, Cross-Browser Compatibility, RESTful APIs
+
+## Professional Goals 🎯
+- **Enhance Expertise:** Continuously improve my skills in frontend technologies and stay updated with the latest industry trends.
+- **Build Engaging User Interfaces:** Create intuitive and responsive user interfaces that enhance user experience.
+- **Collaborate Effectively:** Work with cross-functional teams to deliver high-quality products.
+- **Mentorship:** Share knowledge and mentor junior developers to contribute to the growth of the tech community.
+- **Innovation:** Explore and implement innovative solutions to solve complex problems and improve development processes.
