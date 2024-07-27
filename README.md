@@ -23,3 +23,8 @@ A dedicated and passionate Frontend Developer with a strong foundation in comput
 - **Collaborate Effectively:** Work with cross-functional teams to deliver high-quality products.
 - **Mentorship:** Share knowledge and mentor junior developers to contribute to the growth of the tech community.
 - **Innovation:** Explore and implement innovative solutions to solve complex problems and improve development processes.
+
+## Connect with Me 🌐
+- **Twitter:** [@ptirpude1991](https://x.com/ptirpude1991)
+- **LinkedIn:** [Pritam Tirpude](https://www.linkedin.com/in/pritam23/)
+- **Instagram:** [@pritam231991](https://www.instagram.com/pritam231991/?hl=en)
