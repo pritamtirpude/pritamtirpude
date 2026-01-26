@@ -1,10 +1,12 @@
 # Hi there, I'm Pritam Tirpude 👋
 
-I'm currently working as a Frontend Developer at [Curasinn.de](https://www.curasinn.de), where I focus on building innovative and user-friendly software solutions. My passion lies in crafting beautiful and efficient web interfaces that enhance user experience. Welcome to my GitHub profile!
+I'm currently working as a React.js Lead at [Excellon](https://www.excellonsoft.com/), where I lead frontend development initiatives and mentor a team of developers to build scalable, high-performance web applications. I’m deeply passionate about crafting clean, intuitive, and accessible user interfaces that translate complex ideas into delightful user experiences.
 
 ## About Me 👋
 
-A dedicated and passionate Frontend Developer with a strong foundation in computer science and engineering. I thrive on transforming design prototypes into functional, user-friendly interfaces. With a diploma in Computer Engineering and a Bachelor's degree in Computer Science and Engineering, I bring both theoretical knowledge and practical skills to the table.
+A dedicated Frontend Engineer and Team Lead with a strong foundation in computer science and engineering. I specialize in building modern React and Next.js applications, transforming design systems into robust, production-ready interfaces. With hands-on experience across both frontend and backend, I bring a holistic perspective to application development.
+
+My journey spans from individual contributor to leading frontend teams—balancing clean architecture, performance, and developer experience.
 
 ### My Strengths: 💪
 - **Problem-Solving Attitude:** I enjoy tackling challenges head-on and finding efficient, innovative solutions.
